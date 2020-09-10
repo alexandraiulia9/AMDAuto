@@ -1,0 +1,40 @@
+﻿.butoaneTabel{
+    display: inline-flex;
+}
+
+.butoaneTabel a{
+    margin-left: 5px;
+}
+
+
+table {
+    transform:translate(1%, 5%);
+    max-width:98%;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+.rowData {
+    border: 1px solid #201F38;
+    border-style: none none solid none;
+    border-width: 2px;
+    margin-left: 2px;
+}
+
+.rowData:last-child{
+    border-bottom: none;
+}
+
+.rowData td.noBorder {
+    border: 0;
+}
+
+.rowHeader th.lastHeader {
+  
+}
+
+
+#mechanic {
+    color: #D1510A;
+    font-weight:600;
+    font-style:oblique;
+}

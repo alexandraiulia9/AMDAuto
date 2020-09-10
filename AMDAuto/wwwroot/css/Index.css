@@ -1,0 +1,70 @@
+﻿.slider {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 90vh;
+    background: linear-gradient(to left, #43cea2, #185a9d);
+    z-index: -3;
+}
+
+.titlu h2 {
+    position: sticky;
+    color: white;
+    /*border: 2px solid #dbd9d3;*/
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 40%;
+    text-align: center;
+    background-color: rgba(219, 217, 211, 0.4);
+    z-index: 2;
+    transform: translate(5%, 150%);
+}
+
+h3 {
+    text-align: center;
+    /*margin-bottom: 10%;*/
+    margin-top: 5%;
+    font-size: 40px;
+    color: white;
+}
+
+h4 {
+    text-align: center;
+}
+
+.backgroundImage {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    position: relative;
+    left: 0;
+    right: 0;
+    top: 30%;
+    display: block;
+    justify-self: center;
+    align-self: center;
+    border-style: none;
+    /*-webkit-filter: blur(5px);
+    filter: blur(5px);*/
+}
+
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+}
+
+.section2 {
+    width: 100%;
+    height: 100vh;
+    margin-top: 10%;
+}
+
+    .section2 h4 {
+        font-size: 35px;
+        margin-bottom: 4%;
+    }
+
+    .section2 .row {
+        margin: 2%;
+    }

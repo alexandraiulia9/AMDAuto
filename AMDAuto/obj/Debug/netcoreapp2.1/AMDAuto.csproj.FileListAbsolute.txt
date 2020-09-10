@@ -1,0 +1,540 @@
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorAssemblyInfo.cache
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorAssemblyInfo.cs
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.AssemblyInfoInputs.cache
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.AssemblyInfo.cs
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.deps.json
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.runtimeconfig.json
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.runtimeconfig.dev.json
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.dll
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.pdb
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Views.dll
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Views.pdb
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.DataAccess.dll
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Services.dll
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Services.pdb
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.DataAccess.pdb
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.csprojAssemblyReference.cache
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.TagHelpers.input.cache
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.TagHelpers.output.cache
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorCoreGenerate.cache
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorTargetAssemblyInfo.cache
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorTargetAssemblyInfo.cs
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.Views.pdb
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.csproj.CopyComplete
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.dll
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.pdb
+G:\Licenta\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\appsettings.Development.json
+G:\Licenta\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\appsettings.json
+G:\Licenta\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+G:\Licenta\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.deps.json
+G:\Licenta\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.runtimeconfig.json
+G:\Licenta\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.runtimeconfig.dev.json
+G:\Licenta\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.dll
+G:\Licenta\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.pdb
+G:\Licenta\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Views.dll
+G:\Licenta\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Views.pdb
+G:\Licenta\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.DataAccess.dll
+G:\Licenta\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+G:\Licenta\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Services.dll
+G:\Licenta\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Common.dll
+G:\Licenta\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+G:\Licenta\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Services.pdb
+G:\Licenta\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Common.pdb
+G:\Licenta\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.DataAccess.pdb
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.csprojAssemblyReference.cache
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorAssemblyInfo.cache
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorAssemblyInfo.cs
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.AssemblyInfoInputs.cache
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.AssemblyInfo.cs
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.TagHelpers.input.cache
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.TagHelpers.output.cache
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorCoreGenerate.cache
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorTargetAssemblyInfo.cache
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorTargetAssemblyInfo.cs
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.Views.pdb
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.csproj.CopyComplete
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.dll
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.pdb
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Gallery\Gallery.cshtml.g.cs
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Operations\Services.cshtml.g.cs
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\Cars.cshtml.g.cs
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\History.cshtml.g.cs
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\AddCar.cshtml.g.cs
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\MakeAppointment.cshtml.g.cs
+G:\Licenta\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\FutureAppointments.cshtml.g.cs
+F:\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\appsettings.json
+F:\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.deps.json
+F:\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.runtimeconfig.json
+F:\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.runtimeconfig.dev.json
+F:\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.dll
+F:\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.pdb
+F:\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Views.dll
+F:\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Views.pdb
+F:\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.DataAccess.dll
+F:\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+F:\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Services.dll
+F:\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Common.dll
+F:\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Services.pdb
+F:\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Common.pdb
+F:\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.DataAccess.pdb
+F:\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.csprojAssemblyReference.cache
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorAssemblyInfo.cache
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorAssemblyInfo.cs
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.AssemblyInfoInputs.cache
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.AssemblyInfo.cs
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.TagHelpers.input.cache
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.TagHelpers.output.cache
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorCoreGenerate.cache
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\FutureAppointments.cshtml.g.cs
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\MakeAppointment.cshtml.g.cs
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\AddCar.cshtml.g.cs
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\Cars.cshtml.g.cs
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\History.cshtml.g.cs
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Gallery\EditPhotos.cshtml.g.cs
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Operations\Services.cshtml.g.cs
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorTargetAssemblyInfo.cache
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorTargetAssemblyInfo.cs
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.Views.pdb
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.csproj.CopyComplete
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.dll
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.pdb
+F:\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Gallery\ViewGallery.cshtml.g.cs
+D:\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\appsettings.json
+D:\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\libman.json
+D:\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.deps.json
+D:\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.runtimeconfig.json
+D:\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.runtimeconfig.dev.json
+D:\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.dll
+D:\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.pdb
+D:\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Views.dll
+D:\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Views.pdb
+D:\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.DataAccess.dll
+D:\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+D:\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Services.dll
+D:\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Common.dll
+D:\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Services.pdb
+D:\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Common.pdb
+D:\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.DataAccess.pdb
+D:\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.csprojAssemblyReference.cache
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorAssemblyInfo.cache
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorAssemblyInfo.cs
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.AssemblyInfoInputs.cache
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.AssemblyInfo.cs
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.TagHelpers.input.cache
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.TagHelpers.output.cache
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorCoreGenerate.cache
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\FutureAppointments.cshtml.g.cs
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\MakeAppointment.cshtml.g.cs
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\AddCar.cshtml.g.cs
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\Cars.cshtml.g.cs
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\History.cshtml.g.cs
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Gallery\EditPhotos.cshtml.g.cs
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Gallery\ViewGallery.cshtml.g.cs
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Operations\Services.cshtml.g.cs
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorTargetAssemblyInfo.cache
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorTargetAssemblyInfo.cs
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.Views.pdb
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.csproj.CopyComplete
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.dll
+D:\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.pdb
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\appsettings.Development.json
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\appsettings.json
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\libman.json
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.deps.json
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.runtimeconfig.json
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.runtimeconfig.dev.json
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.dll
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.pdb
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Views.dll
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Views.pdb
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.DataAccess.dll
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Services.dll
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Common.dll
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Services.pdb
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Common.pdb
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.DataAccess.pdb
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.csprojAssemblyReference.cache
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorAssemblyInfo.cache
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorAssemblyInfo.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.AssemblyInfoInputs.cache
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.AssemblyInfo.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.TagHelpers.input.cache
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.TagHelpers.output.cache
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorCoreGenerate.cache
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\AppointmentDetails.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\EditAppointment.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\FutureAppointments.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\GetAppointmentsOfUser.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\History.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\MakeAppointment.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\MakeAppointmentForCar.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\AddCar.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\Cars.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\EditCar.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\GetCarsOfUser.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Employee\UserListView.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Gallery\EditPhotos.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Gallery\ViewGallery.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Operations\Services.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Review\AddReview.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Review\EditReview.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Review\ViewReviews.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorTargetAssemblyInfo.cache
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorTargetAssemblyInfo.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.Views.pdb
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.csproj.CopyComplete
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.dll
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.pdb
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Dashboard\ShowReports.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Employee\EmployeeListView.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Employee\FutureAppointmentsOfEmployee.cshtml.g.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Employee\PastAppointmentsOfEmployee.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.deps.json
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.runtimeconfig.json
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.runtimeconfig.dev.json
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.dll
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.pdb
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Views.dll
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Views.pdb
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.DataAccess.dll
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Services.dll
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Services.pdb
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.DataAccess.pdb
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.csprojAssemblyReference.cache
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.csproj.CoreCompileInputs.cache
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorAssemblyInfo.cache
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorAssemblyInfo.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.AssemblyInfoInputs.cache
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.AssemblyInfo.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.TagHelpers.input.cache
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.TagHelpers.output.cache
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorCoreGenerate.cache
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\AppointmentDetails.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\EditAppointment.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\FutureAppointments.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\GetAppointmentsOfUser.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\History.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\MakeAppointment.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\MakeAppointmentForCar.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\AddCar.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\Cars.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\EditCar.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\GetCarsOfUser.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Dashboard\ShowReports.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Employee\EmployeeListView.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Employee\FutureAppointmentsOfEmployee.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Employee\PastAppointmentsOfEmployee.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Employee\UserListView.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Gallery\EditPhotos.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Gallery\ViewGallery.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Operations\Services.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Review\AddReview.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Review\EditReview.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Review\ViewReviews.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorTargetAssemblyInfo.cache
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorTargetAssemblyInfo.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.Views.pdb
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.csproj.CopyComplete
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.dll
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.pdb
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.genruntimeconfig.cache
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Calendar\Page.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\appsettings.Development.json
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\appsettings.json
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\libman.json
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.deps.json
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.runtimeconfig.json
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.runtimeconfig.dev.json
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.dll
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.pdb
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Views.dll
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Views.pdb
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.DataAccess.dll
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Services.dll
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Common.dll
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Services.pdb
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Common.pdb
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.DataAccess.pdb
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.csprojAssemblyReference.cache
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorAssemblyInfo.cache
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorAssemblyInfo.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.AssemblyInfoInputs.cache
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.AssemblyInfo.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.TagHelpers.input.cache
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.TagHelpers.output.cache
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorCoreGenerate.cache
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\AppointmentDetails.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\EditAppointment.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\FutureAppointments.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\GetAppointmentsOfUser.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\History.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\MakeAppointment.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\MakeAppointmentForCar.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\AddCar.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\Cars.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\EditCar.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\GetCarsOfUser.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Dashboard\ShowReports.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Employee\EmployeeListView.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Employee\FutureAppointmentsOfEmployee.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Employee\PastAppointmentsOfEmployee.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Employee\UserListView.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Gallery\EditPhotos.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Gallery\ViewGallery.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Operations\Services.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Review\AddReview.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Review\EditReview.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Review\ViewReviews.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Schedule\EmployeeSchedule.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorTargetAssemblyInfo.cache
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorTargetAssemblyInfo.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.Views.pdb
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.csproj.CopyComplete
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.dll
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.pdb
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Forbid.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\cs go demos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\libman.json
+E:\cs go demos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\cs go demos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\appsettings.json
+E:\cs go demos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.deps.json
+E:\cs go demos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.runtimeconfig.json
+E:\cs go demos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.runtimeconfig.dev.json
+E:\cs go demos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.dll
+E:\cs go demos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.pdb
+E:\cs go demos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Views.dll
+E:\cs go demos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Views.pdb
+E:\cs go demos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.DataAccess.dll
+E:\cs go demos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+E:\cs go demos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Services.dll
+E:\cs go demos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Common.dll
+E:\cs go demos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Services.pdb
+E:\cs go demos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Common.pdb
+E:\cs go demos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.DataAccess.pdb
+E:\cs go demos\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.csprojAssemblyReference.cache
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorAssemblyInfo.cache
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorAssemblyInfo.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.AssemblyInfoInputs.cache
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.AssemblyInfo.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.TagHelpers.input.cache
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.TagHelpers.output.cache
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorCoreGenerate.cache
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\AppointmentDetails.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\EditAppointment.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\FutureAppointments.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\GetAppointmentsOfUser.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\History.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\MakeAppointment.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\MakeAppointmentForCar.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\AddCar.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\Cars.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\EditCar.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\GetCarsOfUser.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Dashboard\ShowReports.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Employee\EmployeeListView.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Employee\FutureAppointmentsOfEmployee.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Employee\PastAppointmentsOfEmployee.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Employee\UserListView.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Gallery\EditPhotos.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Gallery\ViewGallery.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Operations\Services.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Review\AddReview.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Review\EditReview.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Review\ViewReviews.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Schedule\EmployeeSchedule.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Forbid.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorTargetAssemblyInfo.cache
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorTargetAssemblyInfo.cs
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.Views.pdb
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.csproj.CopyComplete
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.dll
+E:\cs go demos\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.pdb
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\appsettings.Development.json
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\appsettings.json
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\libman.json
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.deps.json
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.runtimeconfig.json
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.runtimeconfig.dev.json
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.dll
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.pdb
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Views.dll
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Views.pdb
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.DataAccess.dll
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Services.dll
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Common.dll
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Services.pdb
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\Common.pdb
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.DataAccess.pdb
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\bin\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.csprojAssemblyReference.cache
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorAssemblyInfo.cache
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorAssemblyInfo.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.AssemblyInfoInputs.cache
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.AssemblyInfo.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.TagHelpers.input.cache
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.TagHelpers.output.cache
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorCoreGenerate.cache
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\AppointmentDetails.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\EditAppointment.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\FutureAppointments.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\GetAppointmentsOfUser.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\History.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\MakeAppointment.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Appointment\MakeAppointmentForCar.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\AddCar.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\Cars.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\EditCar.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Cars\GetCarsOfUser.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Dashboard\ShowReports.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Employee\EmployeeListView.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Employee\FutureAppointmentsOfEmployee.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Employee\PastAppointmentsOfEmployee.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Employee\UserListView.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Gallery\EditPhotos.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Gallery\ViewGallery.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Operations\Services.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Review\AddReview.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Review\EditReview.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Review\ViewReviews.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Schedule\EmployeeSchedule.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Forbid.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorTargetAssemblyInfo.cache
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.RazorTargetAssemblyInfo.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.Views.pdb
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.csproj.CopyComplete
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.dll
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\AMDAuto.pdb
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Comment\EditComment.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddCarOperation.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddCarModel.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Employee\ViewAllAppointments.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddCarParts.cshtml.g.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\InternalServerError.cshtml.g.cs

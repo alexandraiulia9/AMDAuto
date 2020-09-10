@@ -1,0 +1,44 @@
+﻿@section style{
+    <link href="~/css/EditPhotos.css" rel="stylesheet" />
+}
+
+<br />
+<h4 class="detailsText"><b>Edit Photos</b></h4>
+<br />
+<div>
+
+    <br />
+    <h4 class="detailsText"><b>Add Photo</b></h4><br />
+    <div class="form-group row">
+        <div class="col-md-12">
+            <input type="file" class="form-control photoName" accept=".jpg, .png, .jpeg" id="postPhoto" />
+        </div>
+        <div class="col-md-12">
+            <input type="button" value="Add Photo" class="btn btn-default myButton" id="submitPhoto" />
+        </div>
+    </div>
+</div>
+<hr />
+<h4 class="detailsText"><b>Photos</b></h4>
+<br />
+
+<div id="ExistingPhotos">
+   
+</div>
+
+
+<script id="entry-template" type="text/x-handlebars-template">
+    <div class="form-group-lg " data-photo-id="{{photoId}}">
+        <input type="button" value="✖" class="btn btn-default pull-right DeletePhoto" data-delete-photo="{{photoId}}" />
+
+        <div class="col-md-6">
+            <img src="{{picture}}" alt="" class="img-thumbnail" style="height:100px; width:100px; " />
+        </div>
+    </div>
+    <hr />
+</script>
+
+@section scripts{
+    <script src="~/js/Photos.js"></script>
+    <script src="~/js/DeletePhoto.js"></script>
+}

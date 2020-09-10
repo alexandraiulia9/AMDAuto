@@ -1,0 +1,124 @@
+﻿@inject AMDAuto.Entities.DTOs.CurrentUser CurrentUser
+
+@{
+    ViewData["Title"] = "Contact";
+}
+
+@section style{
+    <link href="~/css/Contact.css" rel="stylesheet" />
+}
+
+@if (CurrentUser.RoleId == Guid.Parse("DC043412-4FF5-4C80-BC4F-7F6C37F851C0"))
+{
+    <div class="contactTitle">
+        <h2><span class="colouredTitle">Nu mai aștepta,</span>vizitează-ne</h2>
+    </div>
+
+    @*<a role="button" class="btn btn-success" asp-controller="Home" asp-action="EditContact">Editează pagina de contact</a>*@
+
+    <div class="streetAddress">
+        <address>
+            Strada Bogdan Dragoș 123<br>
+            Roman, Neamț<br>
+            România
+        </address>
+    </div>
+    <div class="mailAddress">
+        <address>
+            <p>Ai întrebări?</p>
+            Email: <a href="mailto:dumitrutalexandra411@gmail.com">amdautoservice@gmail.com</a><br>
+            <p>Pentru programări:</p>
+            Telefon: 0764215676
+        </address>
+    </div>
+    <div id="map">
+
+    </div>
+    <script>
+        var map;
+        function initMap() {
+            var roman = { lat: 46.924950, lng: 26.954210 };
+            map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 15,
+                center: roman
+            });
+            var marker = new google.maps.Marker({
+                map: map,
+                title: "AMDAuto Service",
+                animation: google.maps.Animation.DROP,
+                position: roman,
+
+            });
+
+            marker.addListener('click', toggleBounce);
+        }
+
+        function toggleBounce() {
+            if (marker.getAnimation() !== null) {
+                marker.setAnimation(null);
+            } else {
+                marker.setAnimation(google.maps.Animation.BOUNCE);
+            }
+        }
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCAtqV3SDjUItKClJ81gVm6QJn-lxfbHQA&callback=initMap"
+            async defer></script>
+}
+
+else
+{
+
+    <div class="contactTitle">
+        <h2><span class="colouredTitle">Nu mai aștepta,</span>vizitează-ne</h2>
+
+    </div>
+
+    <div class="streetAddress">
+        <address>
+            Strada Bogdan Dragoș 123<br>
+            Roman, Neamț<br>
+            România
+        </address>
+    </div>
+    <div class="mailAddress">
+        <address>
+            <p>Ai întrebări?</p>
+            Email: <a href="mailto:dumitrutalexandra411@gmail.com">amdautoservice@gmail.com</a><br>
+            <p>Pentru programări:</p>
+            Telefon: 0764215676
+        </address>
+    </div>
+    <div id="map">
+
+    </div>
+    <script>
+        var map;
+        function initMap() {
+            var roman = { lat: 46.924950, lng: 26.954210 };
+            map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 15,
+                center: roman
+            });
+            var marker = new google.maps.Marker({
+                map: map,
+                title: "AMDAuto Service",
+                animation: google.maps.Animation.DROP,
+                position: roman,
+
+            });
+
+            marker.addListener('click', toggleBounce);
+        }
+
+        function toggleBounce() {
+            if (marker.getAnimation() !== null) {
+                marker.setAnimation(null);
+            } else {
+                marker.setAnimation(google.maps.Animation.BOUNCE);
+            }
+        }
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCAtqV3SDjUItKClJ81gVm6QJn-lxfbHQA&callback=initMap"
+            async defer></script>
+
+}

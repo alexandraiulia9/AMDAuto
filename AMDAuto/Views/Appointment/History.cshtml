@@ -1,0 +1,54 @@
+﻿@model UserPastAppointmentsVm
+
+@section style{
+    <link href="~/css/History.css" rel="stylesheet" />
+}
+
+<h3>@ViewData["Message"]</h3>
+
+<div class="container">
+    <div class="row ">
+        @foreach (var pastApp in Model.PastAppointmentsList)
+        {
+            <div class="row" style="margin-bottom:5%;">
+                <div class="col-md-12 cardHistory">
+                    <div class="row">
+                        <div class="col-md-12 text-center"><h5><span class="titluri">Data reparatiei: </span> @pastApp.ScheduledOnDisplay </h5></div>
+                        <div class="col-md-12 text-md-left"><h6><span class="titluri">Masina:</span> @pastApp.CarMake @pastApp.CarModel</h6></div>
+                        <div class="col-md-12 text-md-left"><h6><span class="titluri">Operatia efectuata:</span> @pastApp.OperationName</h6></div>
+                        <div class="col-md-12 text-md-left"><h6><span class="titluri">Mecanicul responsabil: </span> @pastApp.EmployeeName</h6></div>
+                        <div class="col-md-12 text-center"><h5 class="titluri"> - Piese folosite - </h5></div>
+                        @foreach (var part in pastApp.Parts)
+                        {
+                            <div class="col-md-12">
+                                <div class="row partQuantity">
+                                    <div><p> @part.Name - </p></div>
+                                    <div><p class="p2">@part.Quantity </p></div>
+                                    <div><p>(@(part.Price * part.Quantity) lei)</p></div>
+
+                                </div>
+
+
+                            </div>
+
+                        }
+
+                        <div class="col-md-12 text-center"><h5 class="titluri"> - Costuri - </h5></div>
+                        <div class="col-md-12">
+                            <div class="row">
+                                <div class="col-md-12 text-md-left"><h6><span class="titluri">Cost manoperă: @pastApp.OperationPrice lei </span> </h6></div>
+                                <div class="col-md-12"><h6><span class="titluri">Cost total piese: @pastApp.PartsPrice lei</span> </h6></div>
+                                <div class="col-md-12 text-md-left"><h6><span class="titluri">Cost total:  @(pastApp.PartsPrice + @pastApp.OperationPrice) lei</span></h6></div>
+
+                            </div>
+                        </div>
+
+
+                    </div>
+
+
+                </div>
+            </div>
+        }
+    </div>
+</div>

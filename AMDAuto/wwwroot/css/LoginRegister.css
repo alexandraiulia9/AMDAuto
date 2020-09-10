@@ -1,0 +1,47 @@
+﻿*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+body {
+    height: 100%;
+    position: relative;
+    overflow:hidden;
+ 
+}
+
+h3 {
+    position: absolute;
+    /*top: 50%;*/
+    left: 50%;
+    
+    margin-top:4%;
+    
+    color: #B86A09;
+}
+
+.formularLoginParent {
+    position: relative;
+    color: #B86A09;
+}
+
+.formularLogin {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(70%, 50%);
+}
+
+.form-control{
+    width:500px;
+}
+
+.saveBtn{
+    width:500px;
+    text-align: center;
+}
+
+
+

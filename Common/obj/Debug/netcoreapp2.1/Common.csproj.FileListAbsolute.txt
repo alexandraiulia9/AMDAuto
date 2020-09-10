@@ -1,0 +1,91 @@
+C:\Users\ionut.cobuz\source\repos\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+C:\Users\ionut.cobuz\source\repos\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+C:\Users\ionut.cobuz\source\repos\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+C:\Users\ionut.cobuz\source\repos\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.json
+C:\Users\ionut.cobuz\source\repos\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.dev.json
+C:\Users\ionut.cobuz\source\repos\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\ionut.cobuz\source\repos\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\ionut.cobuz\source\repos\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.dll
+C:\Users\ionut.cobuz\source\repos\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.pdb
+G:\Licenta\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+G:\Licenta\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.json
+G:\Licenta\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.dev.json
+G:\Licenta\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.dll
+G:\Licenta\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.pdb
+G:\Licenta\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+G:\Licenta\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+G:\Licenta\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.dll
+G:\Licenta\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.pdb
+G:\Licenta\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+F:\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+F:\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.json
+F:\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.dev.json
+F:\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.dll
+F:\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.pdb
+F:\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+F:\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+F:\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.dll
+F:\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.pdb
+F:\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+D:\AMDAutoBun\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+D:\AMDAutoBun\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.json
+D:\AMDAutoBun\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.dev.json
+D:\AMDAutoBun\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.dll
+D:\AMDAutoBun\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.pdb
+D:\AMDAutoBun\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+D:\AMDAutoBun\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+D:\AMDAutoBun\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+D:\AMDAutoBun\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.dll
+D:\AMDAutoBun\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.pdb
+G:\Licenta\AMDAutoBun\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+G:\Licenta\AMDAutoBun\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.json
+G:\Licenta\AMDAutoBun\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.dev.json
+G:\Licenta\AMDAutoBun\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.dll
+G:\Licenta\AMDAutoBun\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.pdb
+G:\Licenta\AMDAutoBun\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+G:\Licenta\AMDAutoBun\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+G:\Licenta\AMDAutoBun\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+G:\Licenta\AMDAutoBun\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.dll
+G:\Licenta\AMDAutoBun\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.pdb
+C:\Users\Nicu Stejar\Desktop\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+C:\Users\Nicu Stejar\Desktop\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.json
+C:\Users\Nicu Stejar\Desktop\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.dev.json
+C:\Users\Nicu Stejar\Desktop\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\Nicu Stejar\Desktop\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\Nicu Stejar\Desktop\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+C:\Users\Nicu Stejar\Desktop\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Nicu Stejar\Desktop\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+C:\Users\Nicu Stejar\Desktop\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.dll
+C:\Users\Nicu Stejar\Desktop\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.pdb
+C:\Users\Nicu Stejar\Desktop\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.genruntimeconfig.cache
+G:\Licenta\AMDAutoNicu\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+G:\Licenta\AMDAutoNicu\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.json
+G:\Licenta\AMDAutoNicu\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.dev.json
+G:\Licenta\AMDAutoNicu\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.dll
+G:\Licenta\AMDAutoNicu\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.pdb
+G:\Licenta\AMDAutoNicu\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+G:\Licenta\AMDAutoNicu\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+G:\Licenta\AMDAutoNicu\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.dll
+G:\Licenta\AMDAutoNicu\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.pdb
+E:\cs go demos\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+E:\cs go demos\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.json
+E:\cs go demos\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.dev.json
+E:\cs go demos\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.dll
+E:\cs go demos\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.pdb
+E:\cs go demos\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+E:\cs go demos\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+E:\cs go demos\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+E:\cs go demos\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.dll
+E:\cs go demos\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.pdb
+G:\Licenta\AMDAutoIUNIE\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+G:\Licenta\AMDAutoIUNIE\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.json
+G:\Licenta\AMDAutoIUNIE\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.dev.json
+G:\Licenta\AMDAutoIUNIE\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.dll
+G:\Licenta\AMDAutoIUNIE\AMDAuto\Common\bin\Debug\netcoreapp2.1\Common.pdb
+G:\Licenta\AMDAutoIUNIE\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+G:\Licenta\AMDAutoIUNIE\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+G:\Licenta\AMDAutoIUNIE\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.dll
+G:\Licenta\AMDAutoIUNIE\AMDAuto\Common\obj\Debug\netcoreapp2.1\Common.pdb

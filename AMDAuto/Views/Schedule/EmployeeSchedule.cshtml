@@ -1,0 +1,119 @@
+﻿@model EmployeeScheduleVM;
+@inject AMDAuto.Entities.DTOs.CurrentUser CurrentUser
+
+@{
+    ViewData["Title"] = "Page";
+}
+
+@section style{
+    <link href="~/css/Calendar.css" rel="stylesheet" />
+}
+
+
+<h2>Orarul lui @CurrentUser.Name</h2>
+
+@if(Model.PendingAppointments.Count == 0)
+{
+    <h4>Nu există programări în așteptare</h4>
+}
+
+
+<div id="external-events">
+    @foreach (var app in Model.PendingAppointments)
+    {
+        <div id="@app.Id" class='fc-event fc-h-event fc-daygrid-event fc-daygrid-block-event'>
+            <div class='fc-event-main'>@app.Title: @app.Duration min</div>
+        </div>
+        <br />
+    }
+</div>
+
+<div id="calendar-container">
+    <div id="calendar"></div>
+</div>
+
+<script>
+
+    const events = @Html.Raw(Json.Serialize(Model.Appointments));
+
+    document.addEventListener('DOMContentLoaded', () => {
+        var calendarEl = document.getElementById('calendar');
+        var containerEl = document.getElementById('external-events');
+        var Draggable = FullCalendarInteraction.Draggable;
+
+        new Draggable(containerEl, {
+            itemSelector: '.fc-event',
+            eventData: function (eventEl) {
+                return {
+                    title: eventEl.innerText
+                };
+            }
+        });
+
+        var calendar = new FullCalendar.Calendar(calendarEl, {
+            plugins: ['interaction', 'interactionPlugin', 'dayGrid', 'timeGrid'],
+            businessHours: {
+                daysOfWeek: [1, 2, 3, 4, 5],
+                startTime: '08:00',
+                endTime: '20:00'
+            },
+            weekends: false,
+
+            defaultView: 'timeGridWeek',
+            eventTimeFormat: {
+                hour: '2-digit',
+                minute: '2-digit',
+                meridiem: false,
+                hour12: false
+            },
+            selectable: true,
+            forceEventDuration: true,
+            firstDay: 1,
+            displayEventEnd: true,
+            eventClick: function (info) {
+                alert(info.event.title + ': ' + info.event.dateStr + ' - ' + info.event.end);
+            },
+            editable: true,
+            droppable: true,
+            drop: function (info) {
+                var appointmentId = info.draggedEl.id;
+                var date = info.dateStr;
+                $.post(Router.action("Schedule", "SetAppointmentDate"), { date: date, appointmentId: appointmentId })
+                    .done(function () { location.reload();})
+                    .fail(function () {
+                        alert("eroare!");
+                    });
+            },
+            eventDrop: function (info) {
+                //debugger;
+               var appointmentId = info.event.id;
+                var date = info.event.start;
+                $.post(Router.action("Schedule", "SetAppointmentDate"), { date: date, appointmentId: appointmentId })
+                    .done(function () {
+                        location.reload();
+                    })
+                    .fail(function () {
+                        alert("eroare!");
+                    });
+            },
+            eventDurationEditable:false
+
+        });
+        calendar.setOption('aspectRatio', 2.2);
+
+        calendar.on('dateClick', (info) => {
+
+            alert('clicked on ' + info.dateStr);
+        });
+
+        events.forEach(e => {
+            calendar.addEvent(e);
+
+        });
+
+        calendar.render();
+    });
+
+</script>
+
+

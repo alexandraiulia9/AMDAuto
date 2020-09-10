@@ -1,0 +1,35 @@
+﻿.titluri {
+    color: #B86A09;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+h6, h5{
+    font-size:18px; 
+}
+
+h6 .titluri {
+    color: #185a9d;
+    font-size: 20px;
+}
+.cardHistory {
+    width:100vh;
+    border: 0.5px solid #185a9d;
+    border-radius: 10px;
+
+    position: relative;
+    transform: translate(5%, 10%);
+    padding: 20px 20px;
+}
+
+.partQuantity{
+    display:inline-flex;
+}
+
+    .partQuantity p {
+        margin-left: 10px;
+        color: #201F38;
+    }
+    .partQuantity .p2{
+        color:red;
+    }

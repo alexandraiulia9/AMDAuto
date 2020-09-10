@@ -1,0 +1,43 @@
+﻿@model EmployeeFutureAppointmentsVm
+
+@section style{
+    <link href="~/css/ListTableDisplay.css" rel="stylesheet" />
+}
+
+<table class="table" style="margin: 2% 2%; width:150vh;">
+    <thead class="table-danger">
+        <tr class="col-md-12 row">
+            <th scope="col" class="text-md-center col-md-2">Marca</th>
+            <th scope="col" class="text-md-center col-md-2">Model</th>
+            <th scope="col" class="text-md-center col-md-5">Operatia</th>
+            <th scope="col" class="text-md-center col-md-3">Data</th>
+            @*<th scope="col" class="text-md-center col-md-2">Status</th>*@
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var app in Model.FutureAppointments)
+        {
+            <tr class="col-md-12 row">
+                <td scope="row" class="text-md-center col-md-2"><h4>@app.CarMake</h4></td>
+                <td scope="row" class="text-md-center col-md-2"><h4>@app.CarModel</h4></td>
+                <td scope="row" class="text-md-center col-md-5"><h4>@app.OperationName</h4></td>
+                <td scope="row" class="text-md-center col-md-3"><h4>@app.ScheduledOnDisplay</h4></td>
+                @*<td scope="row" class="text-md-center col-md-2">
+                    <div class="text-md-center">
+                        <select data-appointment-id="@app.Id" asp-items="app.Statuses" class="form-control statuses">
+                            <option value="select" selected disabled hidden>Select</option>
+                        </select>
+                    </div>
+                </td>*@
+
+                
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section scripts{
+    <script src="~/js/ChangeStatus.js"></script>
+    <script></script>
+}

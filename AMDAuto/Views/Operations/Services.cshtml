@@ -1,0 +1,44 @@
+﻿@model ServiceVm
+
+@{
+    ViewData["Title"] = "Servicii si Preturi";
+}
+
+@section style{
+    <link href="~/css/Services.css" rel="stylesheet" />
+}
+<div class="titlu">
+    <h3>@ViewData["Message"]</h3>
+</div>
+
+<div class="form-group col-12 right-content">
+    <div class="row dropDown">
+        <div class="col-md-6 labelDropDown">
+            <label asp-for="CategoryId" class="control-label">Categorii reparații</label>
+            <select asp-for="CategoryId" asp-items="Model.Categories" class="form-control">
+                <option value="select" selected disabled hidden>Select</option>
+            </select>
+            <span asp-validation-for="CategoryId" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="servicesTable">
+        <table class="table" style="width:100%;">
+            <thead>
+                <tr>
+                    <th scope="col" class="thDenumire">Denumire</th>
+                    <th scope="col">Durată</th>
+                    <th scope="col">Preț</th>
+                </tr>
+            </thead>
+            <tbody id="OperationsTBody">
+                    
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@section Scripts{
+    <script src="~/js/Services.js"></script>
+}
+
+

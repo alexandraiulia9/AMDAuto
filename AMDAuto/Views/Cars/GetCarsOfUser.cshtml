@@ -1,0 +1,45 @@
+﻿@model UserCarsVm
+@inject AMDAuto.Entities.DTOs.CurrentUser CurrentUser
+@section style{
+
+    <link href="~/css/CarListView.css" rel="stylesheet" />
+}
+
+<a asp-controller="Cars" asp-action="AddCar" asp-route-userId="@Model.UserId" role="button" class="btn btn-warning addNewCar">Adaugă mașină</a>
+<table class="table">
+    <thead class="table-dark ">
+        <tr class="">
+            <th class=" text-center" scope="col">Nr inmatriculare</th>
+            <th class="text-center" scope="col">Marca</th>
+            <th class=" text-center" scope="col">Model</th>
+            @if (CurrentUser.RoleId == Guid.Parse("DC043412-4FF5-4C80-BC4F-7F6C37F851C0"))
+            {
+                <th class="text-center">Actiuni</th>
+            }
+
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var car in Model.UserCars)
+        {
+            <tr class="">
+                <td class=" text-md-center"><h4>@car.LicenseNumber</h4></td>
+                <td class=" text-md-center"><h4>@car.MakeNameId</h4></td>
+                <td class=" text-md-center"><h4>@car.ModelNameId</h4></td>
+                @if (CurrentUser.RoleId == Guid.Parse("DC043412-4FF5-4C80-BC4F-7F6C37F851C0"))
+                {
+                    <td class=" text-md-center">
+                        <div class="butoaneTabel">
+                            <a data-car-id="@car.Id" role="button" class="btn btn-danger deleteCar">Șterge</a>
+                        </div>
+                    </td>
+                }
+
+            </tr>
+
+        }
+    </tbody>
+</table>
+
+<script src="~/js/DeleteCar.js"></script>

@@ -1,0 +1,24 @@
+﻿@model AddReviewVM
+
+@section style{
+
+    <link href="~/css/AddReview.css" rel="stylesheet" />
+}
+<h3> Adaugă review</h3>
+<form asp-action="EditReview" class="review">
+    <div class="form-row">
+        <div class="col-md-6">
+            <label>Spune-ne părerea ta</label>
+        </div>
+        <div>
+            <textarea asp-for="Content" id="myTextArea"></textarea>
+            <script>
+                var cursorPos = $('#myTextArea').prop('selectionStart');
+                $('#myTextArea').prop('selectionEnd', cursorPos - 2);
+            </script>
+        </div>
+    </div>
+    <input type="submit" class="btn btn-success" value="Salvează" />
+
+
+</form>

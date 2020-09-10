@@ -1,0 +1,91 @@
+﻿.title h3{
+    margin-left: 10%;
+   
+}
+
+.title {
+    display: inline-flex;
+    width: 100%;
+    padding-top: 3%;
+    color: #B86A09;
+    font-style: oblique;
+   
+}
+
+.title a{
+   margin-left: 40%;
+}
+
+.container{
+    padding-top: 5%;
+    padding-left:10%;
+}
+
+/*.reviewCards{
+    margin-top: 10px;
+    
+}*/
+
+.butoaneCard {
+    /*display:inline-flex;*/
+    align-self: center;
+    text-align: center;
+    padding-bottom: 2px;
+}
+
+.responsive{
+    max-width: 900px;
+    max-height: 800px;
+}
+
+.reviewBox{
+    
+    padding-top:0px;
+   margin-bottom:2%;
+    /*border: 0.5px solid grey;*/
+}
+
+.reviewButtons{
+    display: inline-flex;
+   /*margin-bottom:40px;*/
+}
+
+.actionButton{
+    margin-left:3px;
+}
+
+.commentSection textarea{
+    margin-left: 50px;
+    border: 3px solid #cccccc;
+    border-radius:10px;
+}
+.commentSection button {
+    margin-top: 5px;
+}
+.commentBoxSection {
+    border: 1px #11ABA6;
+    border-style:outset;
+    border-radius: 30px;    
+    /*border-width:2px;*/
+    padding:5px;
+    margin-bottom: 0.5%;
+    transform: translate(6%, 0%);
+    max-width:123vh;
+}
+
+    .commentBoxSection h5 {
+        color: #B86A09;
+        font-size: 20px;
+        font-weight:600;
+    }
+
+.reviewBox h4 {
+    color: #11ABA6;
+    font-weight:600;
+}
+
+.addCommentButton{
+    margin-left: 2%;
+    width:30vh;
+    height:50px;
+}

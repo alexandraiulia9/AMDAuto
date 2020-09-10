@@ -1,0 +1,16 @@
+﻿h3{
+    text-align: center;
+    padding-bottom: 10%;
+}
+
+.review{
+    margin-left:5%;
+}
+
+.form-row textarea{
+    line-height: 1em;
+    text-align: center;
+    width: 600px;
+    height: 300px;
+    line-height: 100%;
+}

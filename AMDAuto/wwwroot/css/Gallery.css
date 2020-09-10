@@ -1,0 +1,33 @@
+﻿html, body{
+    overflow-x: hidden;
+    
+}
+
+h3 {
+    color: #B86A09;
+    /*background-color: #19547b;*/
+    padding: 10px;
+    position: sticky;
+    left: 80vh;
+    top: 2%;
+    font-style: italic;
+    text-shadow: 1px 1px 1px #B86A09;
+   
+}
+
+.carousel{
+    position:absolute;
+    margin-left: 2%;
+    margin-top:2%;
+}
+
+.photo {
+    object-fit: cover;
+}
+
+img {
+    object-fit: cover;
+    width:160vh;
+    height:600px;
+  
+}

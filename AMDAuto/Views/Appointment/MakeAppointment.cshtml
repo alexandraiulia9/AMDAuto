@@ -1,0 +1,96 @@
+﻿@model AppointmentVm
+
+@section style{
+    <link href="~/css/Appointment.css" rel="stylesheet" />
+}
+
+<h3>@ViewData["Message"]</h3>
+
+
+<center>
+    <form asp-action="MakeAppointment" class="addCarForm">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+         <input asp-for="UserId" class="form-control" value="@Model.UserId" hidden/>
+        <div class="row">
+
+            <div class="form-group col-md-12">
+                <div class="row">
+                    <div class="col-md-3">
+                        <label asp-for="CarId" class="control-label">Masina</label>
+                    </div>
+                    <div class="col-md-3">
+                        <select asp-for="CarId" asp-items="Model.Cars" class="form-control selectElement">
+                            <option value="select" selected disabled hidden>Select</option>
+                        </select>
+                        <span asp-validation-for="CarId" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group col-md-12">
+                <div class="row">
+                    <div class="col-md-3">
+                        <label asp-for="CategoryId" class="control-label">Categoria</label>
+                    </div>
+                    <div class="col-md-3">
+                        <select asp-for="CategoryId" asp-items="Model.Categories" class="form-control selectElement">
+                            <option value="select" selected disabled hidden>Select</option>
+                        </select>
+                        <span asp-validation-for="CategoryId" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="form-group col-md-12">
+                <div class="row">
+                    <div class="col-md-3">
+                        <label asp-for="OperationId" class="control-label">Operatia</label>
+                    </div>
+                    <div class="col-md-3">
+                        <select asp-for="OperationId" asp-items="Model.Operations" class="form-control selectElement" id="OperationsDropDown">
+                            <option value="select" selected disabled hidden>Select</option>
+                        </select>
+                        <span asp-validation-for="OperationId" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            @*<div class="form-group col-md-12">
+                <div class="row">
+                    <div class="input-group">
+                        <div class="col-md-3">
+                            <label asp-for="ScheduledOn" class="control-label">Data</label>
+                        </div>
+                        <div class="col-md-6 inputIcon">
+                            <input asp-for="ScheduledOn" asp-format="{0:dd/MM/yyyy hh:mm}" type="datetime" class="form-control selectElement" id="datetimepicker" />
+                            <span >
+                                <span asp-validation-for="ScheduledOn" class="text-danger fas fa-calendar-plus icon">
+                                </span>
+                            </span>
+                            <script>
+                                var dateToday = new Date();
+                                $("#datetimepicker").datetimepicker({
+                                    minDate: dateToday,
+                                    minTime: '08:00',
+                                    maxTime: '20:00',
+                                    todayButton: true,
+                                    dayOfWeekStart: 1
+                                });
+                            </script>
+                        </div>
+                    </div>
+                </div>
+            </div>*@
+
+            <div class="form-group col-md-11">
+                <button class="btn appointmentButton">Programează</button>
+            </div>
+        </div>
+
+    </form>
+</center>
+
+@section Scripts{
+    <script src="~/js/Appointment.js"></script>
+    @*<script src="~/js/DateTimePicker.js"></script>*@
+}

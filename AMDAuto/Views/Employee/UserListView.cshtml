@@ -1,0 +1,69 @@
+﻿@model AMDAuto.Models.UserListVm
+@inject AMDAuto.Entities.DTOs.CurrentUser CurrentUser
+@section style{
+    <link href="~/css/UserListView.css" rel="stylesheet" />
+}
+
+<table class="table">
+    <thead class="table-dark">
+        <tr>
+            <th scope="col" class="col-md-4 text-left">Nume</th>
+            <th scope="col" class="col-md-8 text-center">Actiuni</th>
+        </tr>
+    </thead>
+    <tbody id="UserList">
+        @foreach (var user in Model.UserList)
+        {
+            <tr>
+                <td class="text-center text-md-left"><h4>@user.Name</h4></td>
+                <td class="text-center">
+                    <div class="butoaneTabel align-items-center text-md-right">
+                        @if (CurrentUser.RoleId == Guid.Parse("DC043412-4FF5-4C80-BC4F-7F6C37F851C0"))
+                        {
+                            <button class="btn btn-success changeRole" data-user-id="@user.Id">Schimbă rol</button>
+                            <div class="text-md-center" data-user-id="@user.Id">
+                                <select data-user-id="@user.Id" asp-items="user.Roles" class="form-control dropdownRoles">
+                                    <option value="select" selected disabled hidden>Select</option>
+                                </select>
+                            </div>
+                        }
+
+                        <a asp-controller="Appointment" asp-action="GetAppointmentsOfUser" asp-route-id="@user.Id" role="button" class="btn btn-warning btnAppointment">Vezi programări</a>
+                        <a asp-controller="Cars" asp-action="GetCarsOfUser" asp-route-id="@user.Id" role="button" class="btn btn-danger">Vezi mașini</a>
+                    </div>
+                </td>
+            </tr>
+
+        }
+    </tbody>
+</table>
+
+@*<div>
+        @if (!Model.IsLastPage)
+        {
+            <input style="display:inline-block;position: absolute; margin-left:2%; " value="Load more..." class="btn btn-outline-info" type="button" id="loadMoreButton" />
+        }
+    </div>*@
+
+<script id="users-template" type="text/x-handlebars-template">
+    <tr>
+        <td class="text-center text-md-left"><h4>{{userName}}</h4></td>
+        <td class="text-center">
+            <div class="butoaneTabel align-items-center text-md-right">
+                <button class="btn btn-success changeRole" data-user-id="{{userId}}">Schimbă rol</button>
+                <div class="text-md-center" data-user-id="{{userId}}">
+                    <select data-user-id="{{userId}}" asp-items="user.Roles" class="form-control dropdownRoles">
+                        <option value="select" selected disabled hidden>Select</option>
+                    </select>
+                </div>
+                <a href="/Appointment/GetAppointmentsOfUser?id={{userId}}" role="button" class="btn btn-warning btnAppointment">Vezi programări</a>
+                <a href="/Cars/GetCarsOfUser?id={{userId}}" role="button" class="btn btn-danger">Vezi mașini</a>
+            </div>
+        </td>
+    </tr>
+</script>
+
+@section scripts{
+    <script src="~/js/UserList.js"></script>
+    <script src="~/js/ChangeRole.js"></script>
+}

@@ -1,0 +1,74 @@
+﻿{
+   "ContextClassName": "AmdautoContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "DoNotCombineNamespace": false,
+   "IdReplace": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "ProjectRootNamespace": "AMDAuto.DataAccess",
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 1,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Appointments]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[CarOperations]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[CarParts]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[CarPartsUsage]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Cars]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Comments]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Employees]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[EmployeeTypes]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Operations]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Photos]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Reviews]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Roles]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Users]"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseSpatial": false
+}

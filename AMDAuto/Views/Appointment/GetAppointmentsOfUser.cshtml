@@ -1,0 +1,110 @@
+﻿@model UserAppointmentsVm
+@inject AMDAuto.Entities.DTOs.CurrentUser CurrentUser
+
+@section style{
+    <link href="~/css/ListTableDisplay.css" rel="stylesheet" />
+}
+
+@if (CurrentUser.RoleId == Guid.Parse("0AFC5C07-6201-45E0-85D3-5E8DF6A4EBC1"))
+{
+    <a asp-controller="Appointment" asp-action="MakeAppointment" asp-route-id="@Model.UserId" role="button" class="btn btn-warning" style="margin-left: 10px; margin-top: 20px;">Efectuează programare nouă</a>
+
+}
+
+<table class="table">
+    <thead class="table-dark">
+        <tr class="col-md-12 row rowHeader">
+            <th scope="col" class="text-md-center col-md-2">Marca</th>
+            <th scope="col" class="text-md-center col-md-2">Model</th>
+            <th scope="col" class="text-md-center col-md-3">Operatia</th>
+            <th scope="col" class="text-md-center col-md-3">Data</th>
+            <th scope="col" class="text-md-center col-md-2 lastHeader">Status</th>
+        </tr>
+
+    </thead>
+
+    <tbody>
+        @foreach (var app in Model.UserAppointments)
+        {
+            <tr class="col-md-12 row rowData">
+                <td scope="row" class="text-md-center col-md-2"><h4>@app.CarMake</h4></td>
+                <td scope="row" class="text-md-center col-md-2"><h4>@app.CarModel</h4></td>
+                <td scope="row" class="text-md-center col-md-3"><h5>@app.OperationName</h5></td>
+                <td scope="row" class="text-md-center col-md-3"><h4>@app.ScheduledOnDisplay</h4></td>
+                <td scope="row" class="text-md-center col-md-2">
+                    @if (app.IsEditable)
+                    {
+                        <div class="text-md-center">
+                            <select data-appointment-id="@app.Id" asp-items="app.Statuses" class="form-control statuses">
+                                <option value="select" selected disabled hidden>Select</option>
+                            </select>
+                        </div>
+                    }
+                    else
+                    {
+                        if (app.StatusName != null)
+                        {
+                            <h4 class="status">@app.StatusName</h4>
+                        }
+                        else
+                        {
+                            <h4 class="status">Nespecificat</h4>
+                        }
+                    }
+                </td>
+
+
+                <td class="butoaneTabel  align-items-center col-md-12 noBorder">
+                    @if (CurrentUser.RoleId == Guid.Parse("0AFC5C07-6201-45E0-85D3-5E8DF6A4EBC1"))
+                    {
+                        @if (app.IsEditable)
+                        {
+                            @if (app.StatusName != null)
+                            {
+                                <a asp-controller="Appointment" asp-action="AppointmentDetails" asp-route-id="@app.Id" role="button" class="btn btn-info col-md-3">Detalii</a>
+                                <a role="button" class="btn btn-danger deleteButton col-md-3" data-appointment-id="@app.Id" style="color: white">Șterge</a>
+                                <button asp-controller="Appointment" asp-action="EditAppointment" asp-route-id="@app.Id" role="button" class="btn btn-success col-md-3" disabled>Editează</button>
+
+                            }
+                            else
+                            {
+                                <button asp-controller="Appointment" asp-action="AppointmentDetails" asp-route-id="@app.Id" role="button" class="btn btn-info col-md-3" disabled>Detalii</button>
+                                <a role="button" class="btn btn-danger deleteButton col-md-3" data-appointment-id="@app.Id" style="color: white">Șterge</a>
+                                <a asp-controller="Appointment" asp-action="EditAppointment" asp-route-id="@app.Id" role="button" class="btn btn-success col-md-3">Editează</a>
+
+                            }
+
+
+
+                        }
+                        @if (app.EmployeeId != Guid.Empty)
+                        {
+
+                            <p id="mechanic" class="text-center">Programare preluata de @app.EmployeeName</p>
+
+                        }
+
+                        else
+                        {
+                            <a role="button" class="btn btn-success col-md-12 TakeAppointment" data-appointment-id="@app.Id" style="color: white">Preia programare</a>
+                        }
+
+
+                    }
+
+                </td>
+
+
+            </tr>
+            @*<tr scope="row" class="text-md-center">
+                </tr>*@
+
+        }
+    </tbody>
+</table>
+
+@section scripts{
+    <script src="~/js/ChangeStatus.js"></script>
+    <script src="~/js/TakeAppointment.js"></script>
+    <script src="~/js/DeleteAppointment.js"></script>
+}

@@ -1,0 +1,212 @@
+﻿@model ReviewVm
+
+@inject AMDAuto.Entities.DTOs.CurrentUser CurrentUser
+
+
+@section style{
+    <link href="~/css/ViewReviews.css" rel="stylesheet" />
+}
+
+@if (CurrentUser.IsAuthenticated)
+{
+    <div class="title">
+        <h3>Părerile clienților noștri</h3>
+        <a role="button" asp-controller="Review" asp-action="AddReview" class="btn btn-outline-info">Adaugă review</a>
+    </div>
+    <div class="container">
+        <div class="row">
+            @foreach (var rev in Model.Reviews)
+            {
+                <div class="row reviewBox w-100">
+
+                    <div class="col-md-4">
+                        <div class="col-md-12">
+                            <div class="col-md-6 text-center"><h4> @rev.UserName </h4></div>
+                            <div class="col-md-6 text-center"><h6 style="font-style:italic; font-weight:500; color:#042B52;"> @rev.CreatedOnDisplay </h6></div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="col-md-12 text-md-center"><p>"@rev.Content"</p></div>
+                    </div>
+
+                    @if (CurrentUser.RoleId == Guid.Parse("0AFC5C07-6201-45E0-85D3-5E8DF6A4EBC1"))
+                    {
+                        <div class="col-md-2">
+
+                            <div class="reviewButtons">
+                                <p id="reviewId" hidden>@rev.Id</p>
+                                <div class="align-items-center">
+                                    <button class="btn btn-outline-warning actionButton commentButton" data-review-id="@rev.Id">
+                                        <span class="fas fa-quote-left"></span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="col-md-12">
+                            @foreach (var c in rev.Comments)
+                            {
+                                <div class="row commentBoxSection">
+
+                                    <div class="col-md-4">
+                                        <p>Răspuns</p>
+                                        <h5>@c.UserName</h5>
+
+                                    </div>
+                                    <div class="col-md-5">
+                                        <h6> "@c.Content"</h6>
+
+                                    </div>
+                                    <div class="col-md-3">
+                                        @if (CurrentUser.Id == c.UserId)
+                                        {
+                                            <button class="btn btn-outline-danger deleteCommentFromReview" data-comment-id="@c.Id"><span class="fas fa-trash-alt"></span></button>
+                                            <a asp-controller="Comment" asp-action="EditComment" asp-route-id="@c.Id" role="button" class="btn btn-outline-success actionButton"><span class="far fa-edit"></span></a>
+                                        }
+                                    </div>
+
+                                </div>
+                            }
+                        </div>
+
+                        <div class="col-md-12">
+                            <div class="row commentSection" data-review-id="@rev.Id">
+                                <textarea class="commentText col-md-6" rows="4" cols="100" data-review-id="@rev.Id">  </textarea>
+                                <button class="btn btn-warning col-md-3 addCommentButton" data-review-id="@rev.Id">Comentează</button>
+                            </div>
+                        </div>
+
+                    }
+                    else if (CurrentUser.RoleId == Guid.Parse("DC043412-4FF5-4C80-BC4F-7F6C37F851C0"))
+                    {
+                        <div class="col-md-2">
+
+                            <div class="reviewButtons">
+                                <p id="reviewId" hidden>@rev.Id</p>
+                                <a role="button" class="btn btn-outline-danger deleteReview" data-review-id="@rev.Id"><span class="fas fa-trash-alt"></span></a>
+                                <a asp-controller="Review" asp-action="EditReview" asp-route-id="@rev.Id" role="button" class="btn btn-outline-success actionButton"><span class="far fa-edit"></span></a>
+                                <div class="align-items-center">
+                                    <button role="button" class="btn btn-outline-warning actionButton commentButton" data-review-id="@rev.Id">
+                                        <span class="fas fa-quote-left"></span>
+                                    </button>
+                                </div>
+                            </div>
+
+                        </div>
+
+
+                        <div class="col-md-12">
+                            @foreach (var c in rev.Comments)
+                            {
+                                <div class="row commentBoxSection">
+
+                                    <div class="col-md-4">
+                                        <p>Răspuns:</p>
+                                        <h5>@c.UserName</h5>
+
+                                    </div>
+                                    <div class="col-md-5">
+                                        <h6> "@c.Content"</h6>
+
+                                    </div>
+                                    <div class="col-md-3">
+                                        <button role="button" class="btn btn-outline-danger deleteComment" data-comment-id="@c.Id"><span class="fas fa-trash-alt"></span></button>
+                                        <a asp-controller="Comment" asp-action="EditComment" asp-route-id="@c.Id" role="button" class="btn btn-outline-success actionButton"><span class="far fa-edit"></span></a>
+                                    </div>
+
+                                </div>
+                            }
+                        </div>
+
+
+                        <div class="col-md-12">
+                            <div class="row commentSection" data-review-id="@rev.Id">
+                                <textarea class="commentText col-md-6" rows="4" cols="100" data-review-id="@rev.Id">  </textarea>
+                                <button class="btn btn-warning col-md-3 addCommentButton" data-review-id="@rev.Id">Comentează</button>
+                            </div>
+                        </div>
+                    }
+
+                    else
+                    {
+                        <div class="col-md-2">
+
+                            @if (rev.UserId == CurrentUser.Id)
+                            {
+                                <div class="reviewButtons">
+                                    <p id="reviewId" hidden>@rev.Id</p>
+                                    <a role="button" class="btn btn-outline-danger deleteReview" data-review-id="@rev.Id"><span class="fas fa-trash-alt"></span></a>
+                                    <a asp-controller="Review" asp-action="EditReview" asp-route-id="@rev.Id" role="button" class="btn btn-outline-success actionButton"><span class="far fa-edit"></span></a>
+                                </div>
+                            }
+
+                        </div>
+                        <div class="col-md-12">
+                            @foreach (var c in rev.Comments)
+                            {
+                                <div class="row commentBoxSection">
+
+                                    <div class="col-md-4">
+                                        <p>Răspuns:</p>
+                                        <h5>@c.UserName</h5>
+
+                                    </div>
+                                    <div class="col-md-5">
+                                        <h6> "@c.Content"</h6>
+
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    }
+
+                </div>
+
+
+
+            }
+        </div>
+    </div>
+}
+
+@if (!CurrentUser.IsAuthenticated)
+{
+
+    <div class="backgroundImage">
+
+    </div>
+    <div class="title">
+        <h3>Părerile celor care ne-au mai vizitat...</h3>
+    </div>
+    <div class="container">
+        <div class="row">
+            @foreach (var rev in Model.Reviews.Take(5))
+            {
+                <div class="row reviewBox w-100">
+
+                    <div class="col-md-4">
+                        <div class="col-md-12">
+                            <div class="col-md-6 text-center"><h4> @rev.UserName </h4></div>
+                            <div class="col-md-6 text-center"><h6 style="font-style:italic; font-weight:500; color:#042B52;"> @rev.CreatedOnDisplay </h6></div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="col-md-12 text-md-center"><p>"@rev.Content"</p></div>
+                    </div>
+                </div>
+
+            }
+        </div>
+
+    </div>
+}
+
+@section scripts{
+    <script src="~/js/DeleteReview.js"></script>
+    <script src="~/js/DeleteComment.js"></script>
+    <script src="~/js/AddComment.js"></script>
+}
+

@@ -1,0 +1,4 @@
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp3.1\AMDAuto.Entities.csprojAssemblyReference.cache
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp3.1\AMDAuto.Entities.AssemblyInfoInputs.cache
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp3.1\AMDAuto.Entities.AssemblyInfo.cs

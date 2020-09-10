@@ -1,0 +1,18 @@
+﻿.addNewCar{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+table {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.butoaneTabel{
+    display: inline-flex;
+}
+
+.butoaneTabel a{
+    color: white;
+    margin-left: 4px;
+}

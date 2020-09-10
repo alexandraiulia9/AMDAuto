@@ -1,0 +1,67 @@
+﻿@model AppointmentDetailsVm
+
+@inject AMDAuto.Entities.DTOs.CurrentUser CurrentUser
+
+@section style{
+    <link href="~/css/AppointmentDetails.css" rel="stylesheet" />
+}
+
+<h4>@Model.OperationName</h4>
+<p id="appointmentId" hidden>@Model.Id</p>
+
+
+@if (CurrentUser.RoleId != Guid.Parse("DC043412-4FF5-4C80-BC4F-7F6C37F851C0"))
+{
+    <div class="container">
+        <div class="row">
+            <div class="form-group col-md-12" id="dropdownPiese">
+                <div class="row">
+                    <div class="col-md-4">
+                        <label asp-for="PartId" class="control-label">Selectare piese</label>
+                    </div>
+                    <div class="col-md-8 displayFlex">
+                        <select asp-for="PartId" asp-items="Model.PartsToSelect" id="partDropdown" class="form-control">
+                            <option value="select" selected disabled hidden>Select</option>
+                        </select>
+                        <button type="button" class="btn btn-outline-warning" id="AddCarPart">Adaugă piesă</button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+}
+
+
+
+
+<table class="table">
+    <thead class="table-dark col-md-12 ">
+        <tr class="col-md-12">
+            <th scope="col" class="text-md-center">Denumire piesă</th>
+            <th scope="col" class="text-md-center">Cantitate folosită</th>
+            <th scope="col" class="text-md-center">Acțiuni</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var part in Model.PartsUsed)
+        {
+            <tr class="col-md-12">
+                <td scope="row" class="text-md-center"><h4>@part.Name</h4></td>
+                <td scope="row" class="text-md-center"><h4>@part.Quantity</h4></td>
+                <td class="text-center">
+                    <div class="butoaneTabel col-lg-12 align-items-center">
+                        <a role="button" class="btn btn-outline-danger deleteButton" data-carpart-id="@part.PartId">Șterge</a>
+                    </div>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+
+
+@section scripts{
+    <script src="~/js/AppointmentDetails.js"></script>
+}

@@ -1,0 +1,54 @@
+﻿@model ModelVm
+
+@section style{
+    <link href="~/css/AddModelForm.css" rel="stylesheet" />
+}
+
+
+<div class="col-md-3"><p>Adăugați o nouă marcă</p></div>
+
+<div class="col-md-3">
+    <input asp-for="MakeName" class="form-control" type="text" value="" />
+    <span asp-validation-for="MakeName" class="text-danger"></span>
+    <div style="margin-top:10px;">
+        <button type="submit" class="btn btn-success" id="addNewMake">Adaugă marcă</button>
+    </div>
+</div>
+
+<form asp-action="AddCarModel">
+
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="row">
+        <div class="form-group col-md-12">
+            <div class="row">
+                <div class="col-md-3">
+                    <p asp-for="MakeId" class="">Selectați marca</p>
+                </div>
+                <div class="col-md-3">
+                    <select asp-for="MakeId" asp-items="Model.Makes" class="form-control">
+                        <option value="select" selected disabled hidden>Select</option>
+                    </select>
+                    <span asp-validation-for="MakeId" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+        <div class="form-group col-md-12">
+            <div class="row">
+                <div class="col-md-3">
+                    <p asp-for="ModelId" class="">Introduceți modelul</p>
+                </div>
+                <div class="col-md-3">
+                    <input asp-for="Name" class="form-control" type="text" value="" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <button type="submit" class="btn btn-success">Adaugă model</button>
+        </div>
+
+    </div>
+</form>
+
+
+<script src="~/js/AddMakeModel.js"></script>

@@ -1,0 +1,73 @@
+﻿@model OperationVm
+
+@section style{
+
+}
+
+<form asp-action="AddCarOperation">
+    <div class="row col-md-12" style="margin-top: 3%;">
+
+        <div class="col-md-12">
+            <p>Adăugați o nouă categorie</p>
+        </div>
+
+        <div class="col-md-3">
+            <input asp-for="CategoryName" class="form-control" type="text" value="" />
+            <span asp-validation-for="CategoryName" class="text-danger"></span>
+
+        </div>
+        <div class="col-md-6">
+            <button type="submit" class="btn btn-success" id="addNewCategory">Adaugă categorie</button>
+        </div>
+    </div>
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="row">
+        <div class="form-group col-md-12">
+            <div class="row" style="margin-left: 10px; margin-top:20px;">
+
+                <div class="col-md-12">
+                    <p asp-for="CategoryId" class="">Selectați categoria</p>
+                </div>
+                <div class="col-md-3">
+                    <select asp-for="CategoryId" asp-items="Model.Categories" class="form-control">
+                        <option value="select" selected disabled hidden>Select</option>
+                    </select>
+                    <span asp-validation-for="CategoryId" class="text-danger"></span>
+                </div>
+
+
+                <div class="col-md-12">
+                    <p asp-for="Name" class="">Denumire operație</p>
+                </div>
+                <div class="col-md-3">
+                    <input type="text" value="" asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-12">
+                    <p asp-for="Price" class="">Preț</p>
+                </div>
+                <div class="col-md-3">
+                    <input type="text" value="" asp-for="Price" class="form-control" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+                <div class="col-md-12">
+                    <p asp-for="Duration" class="">Durata</p>
+                </div>
+                <div class="col-md-3">
+                    <input type="text" value="" asp-for="Duration" class="form-control" />
+                    <span asp-validation-for="Duration" class="text-danger"></span>
+                </div>
+                <div class="col-md-12">
+                    <button type="submit" class="btn btn-success" style="margin-left:7px; margin-top:10px;"> Adaugă operație </button>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</form>
+
+
+<script src="~/js/AddCategory.js"></script>

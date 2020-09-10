@@ -1,0 +1,46 @@
+﻿.titlu {
+    margin-top: 2%;
+    text-align: center;
+    color: #B86A09;
+}
+
+.right-content {
+   
+    
+}
+    .right-content label {
+        text-align: center;
+        font-style: oblique;
+        border: 1px #B86A09;
+        border-style: none groove none groove;
+        /*border-radius: 10px;*/
+        padding: 5px 10px;
+        width: 100%;
+        font-size: 18px;
+        color: #B86A09;
+    }
+.dropDown {
+    width: 500px;
+}
+
+.table {
+    margin-top: 3%;
+    width: 100%;
+    table-layout: fixed;
+    width: 20%;
+    background: linear-gradient(to right, #4B7AAA, #155799);
+    color: white;
+}
+
+    .table thead {
+        background: #0E9995;
+    }
+.thDenumire{
+    width: 50%;
+}
+
+tr th:last-child{
+    width: 8%;
+    white-space:nowrap;
+}
+

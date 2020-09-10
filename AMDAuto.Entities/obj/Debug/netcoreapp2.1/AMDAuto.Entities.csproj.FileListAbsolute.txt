@@ -1,0 +1,119 @@
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.AssemblyInfoInputs.cache
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.AssemblyInfo.cs
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.deps.json
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.runtimeconfig.json
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.runtimeconfig.dev.json
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.csprojAssemblyReference.cache
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.csproj.CopyComplete
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+C:\Users\ionut.cobuz\source\repos\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+G:\Licenta\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.deps.json
+G:\Licenta\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.runtimeconfig.json
+G:\Licenta\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.runtimeconfig.dev.json
+G:\Licenta\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+G:\Licenta\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+G:\Licenta\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\Common.dll
+G:\Licenta\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\Common.pdb
+G:\Licenta\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.csprojAssemblyReference.cache
+G:\Licenta\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.AssemblyInfoInputs.cache
+G:\Licenta\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.AssemblyInfo.cs
+G:\Licenta\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.csproj.CopyComplete
+G:\Licenta\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+G:\Licenta\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+F:\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.deps.json
+F:\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.runtimeconfig.json
+F:\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.runtimeconfig.dev.json
+F:\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+F:\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+F:\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\Common.dll
+F:\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\Common.pdb
+F:\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.csprojAssemblyReference.cache
+F:\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.AssemblyInfoInputs.cache
+F:\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.AssemblyInfo.cs
+F:\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.csproj.CopyComplete
+F:\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+F:\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+D:\AMDAutoBun\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.deps.json
+D:\AMDAutoBun\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.runtimeconfig.json
+D:\AMDAutoBun\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.runtimeconfig.dev.json
+D:\AMDAutoBun\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+D:\AMDAutoBun\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+D:\AMDAutoBun\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\Common.dll
+D:\AMDAutoBun\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\Common.pdb
+D:\AMDAutoBun\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.csprojAssemblyReference.cache
+D:\AMDAutoBun\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.AssemblyInfoInputs.cache
+D:\AMDAutoBun\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.AssemblyInfo.cs
+D:\AMDAutoBun\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.csproj.CopyComplete
+D:\AMDAutoBun\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+D:\AMDAutoBun\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.deps.json
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.runtimeconfig.json
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.runtimeconfig.dev.json
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\Common.dll
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\Common.pdb
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.csprojAssemblyReference.cache
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.AssemblyInfoInputs.cache
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.AssemblyInfo.cs
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.csproj.CopyComplete
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+G:\Licenta\AMDAutoBun\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.deps.json
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.runtimeconfig.json
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.runtimeconfig.dev.json
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.csprojAssemblyReference.cache
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.AssemblyInfoInputs.cache
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.AssemblyInfo.cs
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.csproj.CopyComplete
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+C:\Users\Nicu Stejar\Desktop\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.genruntimeconfig.cache
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.deps.json
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.runtimeconfig.json
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.runtimeconfig.dev.json
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\Common.dll
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\Common.pdb
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.csprojAssemblyReference.cache
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.AssemblyInfoInputs.cache
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.AssemblyInfo.cs
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.csproj.CopyComplete
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+G:\Licenta\AMDAutoNicu\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+E:\cs go demos\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.deps.json
+E:\cs go demos\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.runtimeconfig.json
+E:\cs go demos\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.runtimeconfig.dev.json
+E:\cs go demos\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+E:\cs go demos\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+E:\cs go demos\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\Common.dll
+E:\cs go demos\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\Common.pdb
+E:\cs go demos\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.csprojAssemblyReference.cache
+E:\cs go demos\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.AssemblyInfoInputs.cache
+E:\cs go demos\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.AssemblyInfo.cs
+E:\cs go demos\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.csproj.CopyComplete
+E:\cs go demos\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+E:\cs go demos\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.deps.json
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.runtimeconfig.json
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.runtimeconfig.dev.json
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\AMDAuto.Entities.pdb
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\Common.dll
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto.Entities\bin\Debug\netcoreapp2.1\Common.pdb
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.csprojAssemblyReference.cache
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.AssemblyInfoInputs.cache
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.AssemblyInfo.cs
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.csproj.CopyComplete
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.dll
+G:\Licenta\AMDAutoIUNIE\AMDAuto\AMDAuto.Entities\obj\Debug\netcoreapp2.1\AMDAuto.Entities.pdb

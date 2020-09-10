@@ -1,0 +1,33 @@
+﻿.selectElement{
+   width:500px;
+}
+.inputIcon{
+    display:inline-flex;
+    width:700px;
+}
+
+.icon{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+h3 {
+    padding-left: 20px;
+    padding-top: 2%;
+    font-style: oblique;
+    color: #B86A09;
+}
+.addCarForm{
+    padding-top: 5%;
+}
+
+.appointmentButton {
+    align-self: center;
+    background-color: #B86A09;
+    color:white;
+}
+
+    .appointmentButton:hover {
+        background-color: white;
+        color: #B86A09;
+        border: 1px solid #B86A09;
+    }

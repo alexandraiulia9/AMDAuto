@@ -1,0 +1,17 @@
+﻿.table, h4{
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+.container{
+   padding-top: 2%;
+}
+
+.displayFlex{
+    display: inline-flex;
+}
+
+.displayFlex button{
+    margin-left: 3%;
+    width:80%;
+}

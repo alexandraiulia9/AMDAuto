@@ -1,0 +1,16 @@
+﻿.butoaneTabel {
+    display: inline-flex;
+}
+
+    .butoaneTabel a {
+        margin-left: 5px;
+    }
+
+    table{
+        transform: translate(3%,2%);
+    }
+
+tr td:last-child{
+    width: 4%;
+    white-space:nowrap;
+}

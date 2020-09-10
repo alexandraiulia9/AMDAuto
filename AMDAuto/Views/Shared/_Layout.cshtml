@@ -1,0 +1,170 @@
+﻿@inject RouteJs.IRouteJsHelper RouteJs
+@inject AMDAuto.Entities.DTOs.CurrentUser CurrentUser
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>@ViewData["Title"] - AMDAuto</title>
+
+    <link rel="icon" href="~/images/sedan-512.webp" type="image/x-icon" />
+
+    <environment include="Development">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+        <script src="https://kit.fontawesome.com/0d5b2b368c.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="~/css/site.css" />
+        <link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js"
+                integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+                crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="~/js/jquery.datetimepicker.min.css" />
+        <script src="~/js/jquery.js"></script>
+        <script src="~/js/jquery.datetimepicker.full.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js" integrity="sha256-ABrLsV2caVEMCBfm3eNhv/CYQG+tGCqzw2f4b/Pag0M=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TimelineMax.min.js" integrity="sha256-v/YsEqWkVsiNHryCWg+vjC/eDBakMAgOsCJRa0kNPOg=" crossorigin="anonymous"></script>
+        <script src="//s3-us-west-2.amazonaws.com/s.cdpn.io/16327/MorphSVGPlugin.min.js"></script>
+
+    </environment>
+    <environment exclude="Development">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous"
+              asp-fallback-href="~/lib/bootstrap/css/bootstrap.min.css"
+              asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+        <script src="https://kit.fontawesome.com/0d5b2b368c.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
+        <link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js"
+                integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+                crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="~/js/jquery.datetimepicker.min.css" />
+        <script src="~/js/jquery.js"></script>
+        <script src="~/js/jquery.datetimepicker.full.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js" integrity="sha256-ABrLsV2caVEMCBfm3eNhv/CYQG+tGCqzw2f4b/Pag0M=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TimelineMax.min.js" integrity="sha256-v/YsEqWkVsiNHryCWg+vjC/eDBakMAgOsCJRa0kNPOg=" crossorigin="anonymous"></script>
+        <script src="//s3-us-west-2.amazonaws.com/s.cdpn.io/16327/MorphSVGPlugin.min.js"></script>
+    </environment>
+    <link href='~/lib/fullcalendar/core/main.css' rel='stylesheet' />
+    <link href='~/lib/fullcalendar/daygrid/main.css' rel='stylesheet' />
+    <link href="~/lib/fullcalendar/timegrid/main.css" rel="stylesheet" />
+    
+
+    <script src='~/lib/fullcalendar/core/main.js'></script>
+    <script src='~/lib/fullcalendar/daygrid/main.js'></script>
+    <script src='~/lib/fullcalendar/interaction/main.js'></script>
+    <script src="~/lib/fullcalendar/timegrid/main.js"></script>
+
+    @RenderSection("style")
+</head>
+<body>
+    <div class="preload">
+        <img src="~/images/giphy.gif" />
+    </div>
+
+    <div id="content">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light navBar">
+            <div class="container-fluid">
+                <button type="button" id="sidebarCollapse" class="btn btn-info">
+                    <i class="fas fa-align-justify fa-align-left"></i>
+                    <span>Meniu</span>
+                </button>
+            </div>
+        </nav>
+    </div>
+
+    <div id="wrapper" class="toggled">
+        <nav id="sidebar">
+            <div class="sidebar-header">
+                <ul class="nav flex-column">
+                    @if (CurrentUser.IsAuthenticated)
+                    {
+
+                        @if (CurrentUser.RoleId == Guid.Parse("C3344D80-7E05-4532-A43C-755EF2A21E65"))
+                        {
+                            <li class="nav-item currentUser">Bună, @CurrentUser.Name!</li>
+                            <li class="nav-item"><a class="nav-link" asp-controller="Account" asp-action="LogOut"><span class="fas fa-door-open menuIcon" aria-hidden="true"></span>Ieși din cont</a></li>
+                            <li class="nav-item"><a class="nav-link" asp-controller="Cars" asp-action="AddCar"><span class="fas fa-plus menuIcon"></span>Adauga masina</a></li>
+                            <li class="nav-item"><a class="nav-link" asp-controller="Cars" asp-action="Cars"><span class="fas fa-car menuIcon"></span>Masinile tale</a></li>
+                            <li class="nav-item"><a class="nav-link" asp-controller="Appointment" asp-action="MakeAppointment"><span class="fas fa-calendar-alt menuIcon"></span>Programare Service</a></li>
+                            <li class="nav-item"><a class="nav-link" asp-controller="Appointment" asp-action="History"><span class="fas fa-clock menuIcon"></span>Istoric masini</a></li>
+                            <li class="nav-item"><a class="nav-link" asp-controller="Appointment" asp-action="FutureAppointments"><span class="far fa-calendar-check menuIcon"></span>Programari viitoare</a></li>
+
+                        }
+                        else if (CurrentUser.RoleId == Guid.Parse("0AFC5C07-6201-45E0-85D3-5E8DF6A4EBC1"))
+                        {
+                            <li class="nav-item currentUser">AMD Auto Service</li>
+                            <li class="nav-item currentUser" style="font-size:20px;">Bună, @CurrentUser.Name !</li>
+                            <li class="nav-item"><a class="nav-link" asp-controller="Account" asp-action="LogOut"><span class="fas fa-door-open menuIcon" aria-hidden="true"></span>Ieși din cont</a></li>
+                            <li class="nav-item"><a class="nav-link" asp-controller="Employee" asp-action="ViewAllAppointments"><span class="fas fa-spinner menuIcon"></span>Programări în așteptare</a></li>
+                            <li class="nav-item"><a class="nav-link" asp-controller="Employee" asp-action="UserListView"><span class="far fa-address-book menuIcon"></span>Lista utilizatori</a></li>
+                            <li class="nav-item"><a class="nav-link" asp-controller="Schedule" asp-action="EmployeeSchedule"><span class="fas fa-calendar-alt menuIcon"></span>Orar</a></li>
+                        }
+                        else
+                        {
+                            <li class="nav-item currentUser">AMD Auto Service</li>
+                            <li class="nav-item currentUser">Bună, @CurrentUser.Name!</li>
+                            <li class="nav-item"><a class="nav-link" asp-controller="Account" asp-action="LogOut"><span class="fas fa-door-open menuIcon" aria-hidden="true"></span>Ieși din cont</a></li>
+                            <li class="nav-item"><a class="nav-link" asp-controller="Dashboard" asp-action="ShowReports"><span class="fas fa-chart-pie menuIcon"></span>Rapoarte</a></li>
+                            <li class="nav-item"><a class="nav-link" asp-controller="Employee" asp-action="UserListView"><span class="far fa-address-book menuIcon"></span>Lista utilizatori</a></li>
+                            <li class="nav-item"><a class="nav-link" asp-controller="Employee" asp-action="EmployeeListView"><span class="far fa-id-badge menuIcon"></span>Lista angajati</a></li>
+                            <li class="nav-item"><a class="nav-link" asp-controller="Admin" asp-action="AddCarOperation"><span class="fas fa-plus-circle menuIcon"></span>Adaugă operații</a></li>
+                            <li class="nav-item"><a class="nav-link" asp-controller="Admin" asp-action="AddCarParts"><span class="fas fa-plus-circle menuIcon"></span>Adaugă piese</a></li>
+                            <li class="nav-item"><a class="nav-link" asp-controller="Admin" asp-action="AddCarModel"><span class="fas fa-plus-circle menuIcon"></span>Adaugă modele mașini</a></li>
+                        }
+
+                    }
+                    else
+                    {
+                        <li class="nav-item currentUser">AMD Auto Service</li>
+                        <li class="nav-item accountButtons"><a role="button" class="btn btn-primary" asp-controller="Account" asp-action="Register">Creează cont</a></li>
+                        <li class="nav-item accountButtons"><a role="button" class="btn btn-success" asp-controller="Account" asp-action="LogIn">Intră în cont</a></li>
+                    }
+                </ul>
+
+            </div>
+            <ul class="list-unstyled components butoaneDefault">
+                <li class="active"><a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Despre noi</a></li>
+                <li class="nav-item"><a class="nav-link" asp-area="" asp-controller="Operations" asp-action="Services">Servicii</a></li>
+                <li class="nav-item"><a class="nav-link" asp-area="" asp-controller="Gallery" asp-action="ViewGallery">Galerie</a></li>
+                <li class="nav-item"><a class="nav-link" asp-area="" asp-controller="Review" asp-action="ViewReviews">Recenzii</a></li>
+                <li class="nav-item"><a class="nav-link" asp-area="" asp-controller="Home" asp-action="Contact">Contact</a></li>
+
+            </ul>
+        </nav>
+        <div class="right-content">
+            @RenderBody()
+        </div>
+    </div>
+
+    <partial name="_CookieConsentPartial" />
+
+
+    <environment include="Development">
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="~/lib/handlebars/handlebars-v4.0.11.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+        <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"
+                integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="
+                crossorigin="anonymous"></script>
+        <script src="~/js/Layout.js"></script>
+    </environment>
+    <environment exclude="Development">
+        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"
+                asp-fallback-src="~/lib/bootstrap/dist/js/bootstrap.min.js"
+                asp-fallback-test="window.jQuery && window.jQuery.fn && window.jQuery.fn.modal">
+        </script>
+        <script src="~/js/site.min.js" asp-append-version="true"></script>
+        <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"
+                integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="
+                crossorigin="anonymous"></script>
+        <script src="~/js/Layout.js"></script>
+    </environment>
+    @RouteJs.Render()
+    @RenderSection("Scripts", required: false)
+    @Html.Partial("_ValidationScriptsPartial")
+</body>
+</html>

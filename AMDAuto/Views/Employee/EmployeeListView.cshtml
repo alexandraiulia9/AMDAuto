@@ -1,0 +1,52 @@
+﻿@model AMDAuto.Models.EmployeeListVm
+
+@section style{
+    <link href="~/css/ListTableDisplay.css" rel="stylesheet" />
+}
+
+<table class="table">
+    <thead class="table-dark">
+        <tr>
+            <th scope="col" class="col-md-4 text-left">Nume</th>
+            <th scope="col" class="col-md-8 text-center">Actiuni</th>
+        </tr>
+    </thead>
+    <tbody id="EmployeeList">
+        @foreach (var employee in Model.EmployeeList)
+        {
+            <tr>
+                <td class="text-center text-md-left"><h4>@employee.Name</h4></td>
+                <td class="text-center">
+                    <div class="butoaneTabel align-items-center text-md-right">
+                        <a asp-controller="Employee" asp-action="FutureAppointmentsOfEmployee" asp-route-id="@employee.Id" role="button" class="btn btn-warning btnAppointment">Vezi programări viitoare</a>
+                        <a asp-controller="Employee" asp-action="PastAppointmentsOfEmployee" asp-route-id="@employee.Id" role="button" class="btn btn-warning btnAppointment">Vezi programări anterioare</a>
+                    </div>
+                </td>
+            </tr>
+
+        }
+    </tbody>
+</table>
+
+<div>
+    @if (!Model.IsLastPage)
+    {
+        <input style="display:inline-block;position: absolute; margin-left:2%; " value="Load more..." class="btn btn-outline-info" type="button" id="loadMoreButton" />
+    }
+</div>
+
+<script id="employees-template" type="text/x-handlebars-template">
+    <tr>
+        <td class="text-center text-md-left"><h4>{{employeeName}}</h4></td>
+        <td class="text-center">
+            <div class="butoaneTabel align-items-center text-md-right">
+                <a  href="/Employee/FutureAppointmentsOfEmployee?id={{employeeId}}" role="button" class="btn btn-warning btnAppointment">Vezi programări viitoare</a>
+                <a href="/Employee/PastAppointmentsOfEmployee?id={{employeeId}}" role="button" class="btn btn-warning btnAppointment">Vezi programări anterioare</a>
+            </div>
+        </td>
+    </tr>
+</script>
+
+@section scripts{
+    <script src="~/js/EmployeeList.js"></script>
+ }

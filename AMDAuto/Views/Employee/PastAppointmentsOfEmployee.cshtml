@@ -1,0 +1,81 @@
+﻿@model EmployeePastAppointmentsVm
+
+@section style{
+    <link href="~/css/ListTableDisplay.css" rel="stylesheet" />
+}
+
+<table class="table" style="margin-left: 2%;width:150vh;">
+    <thead class="table-dark">
+        <tr class="col-md-12 row">
+            <th scope="col" class="text-md-center col-md-3">Marca</th>
+            <th scope="col" class="text-md-center col-md-3">Model</th>
+            <th scope="col" class="text-md-center col-md-3">Operatia</th>
+            <th scope="col" class="text-md-center col-md-3">Data</th>
+            @*<th scope="col" class="text-md-center col-md-3">ACTIUNI</th>*@
+
+        </tr>
+
+    </thead>
+
+    <tbody>
+        @foreach (var app in Model.PastAppointments)
+        {
+            <tr class="col-md-12 row">
+                <td scope="row" class="text-md-center col-md-3"><h4>@app.CarMake</h4></td>
+                <td scope="row" class="text-md-center col-md-3"><h4>@app.CarModel</h4></td>
+                <td scope="row" class="text-md-center col-md-3"><h4>@app.OperationName</h4></td>
+                <td scope="row" class="text-md-center col-md-3"><h4>@app.ScheduledOnDisplay</h4></td>
+                @*<td scope="row" class="col-md-3">
+                    <a role="button" class="btn btn-danger deleteButton" data-appointment-id="@app.Id" style="color: white">Șterge</a>
+                </td>*@
+
+            </tr>
+
+
+            <tr class="col-md-12 row thead-light">
+                <th scope="col" class="text-md-center col-md-6">Piese</th>
+                <th scope="col" class="text-md-center col-md-6">Costuri</th>
+            </tr>
+            <tr class="col-md-12 row rowData">
+                @if (app.Parts.Count != 0)
+                {
+                    <td class="col-md-6 text-md-center">
+                        @foreach (var part in app.Parts)
+                        {
+                            <div class="col-md-12 ">
+                                <div class="row text-md-center">
+                                    <div><h6> @part.Name - </h6></div>
+                                    <div><h6 class="p2">@part.Quantity </h6></div>
+                                    <div><h6>(@(part.Price * part.Quantity) lei)</h6></div>
+
+                                </div>
+
+
+                            </div>
+                        }
+                    </td>
+                }
+                else
+                {
+                    <td class="col-md-6">Nu s-au adăugat piesele încă</td>
+                }
+                <td class="col-md-6">
+                    <div class="col-md-12">
+                        <div class="row text-md-center ">
+                            <div class="col-md-12 justify-content-md-start"><h6><span class="titluri">Cost manoperă: @app.OperationPrice lei </span> </h6></div>
+                            <div class="col-md-12 justify-content-md-start"><h6><span class="titluri">Cost total piese: @app.PartsPrice lei</span> </h6></div>
+                            <div class="col-md-12 justify-content-md-start"><h6><span class="titluri">Cost total:  @(app.PartsPrice + app.OperationPrice) lei</span></h6></div>
+
+                        </div>
+                    </div>
+                </td>
+            </tr>
+
+        }
+    </tbody>
+</table>
+
+@section scripts{
+    <script src="~/js/ChangeStatus.js"></script>
+    <script></script>
+}

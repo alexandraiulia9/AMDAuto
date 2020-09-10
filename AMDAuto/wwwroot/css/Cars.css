@@ -1,0 +1,44 @@
+﻿.container {
+    padding-left: 10%;
+}
+
+.carsCards {
+    padding-top: 5%;
+}
+
+.card-title {
+    color: #B86A09;
+}
+
+.btnAppointment {
+    color: white;
+    border: 1px solid #B86A09;
+    background-color: #B86A09;
+}
+
+a:hover {
+    color: white;
+    background-color: #B86A09;
+}
+
+.butoaneCard {
+    display: inline-flex;
+}
+
+    .butoaneCard a {
+        margin-left: 2%;
+        margin-bottom: 5px;
+    }
+
+    .butoaneCard input {
+        margin-left: 2%;
+        margin-bottom: 5px;
+    }
+
+.label {
+    font-weight: 700;
+}
+
+    .label span {
+        font-weight: 400;
+    }

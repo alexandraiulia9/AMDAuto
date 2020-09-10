@@ -1,0 +1,43 @@
+﻿@model UserCarsVm;
+
+@{
+
+}
+
+@section style{
+    <link href="~/css/Cars.css" rel="stylesheet" />
+}
+
+<div class="container">
+    <div class="row">
+        @foreach (var car in Model.UserCars)
+        {
+            <div class="col-md-6 carsCards">
+                <div class="card">
+                    <div class="card-body row">
+                        <div class="col-md-12 text-center"><h4 class="card-title">  @car.LicenseNumber</h4></div>
+                        <div class="col-md-6 text-md-center"><h6 class="label">Marca: <span>@car.MakeNameId</span></h6></div>
+                        <div class="col-md-6 text-md-center"><h6 class="label">Model: <span>@car.ModelNameId</span></h6></div>
+                        <div class="col-md-6 text-md-center"><h6 class="label">An de fabricatie: <span>@car.ReleaseYear</span></h6></div>
+                        <div class="butoaneCard col-lg-12 align-items-center">
+                            <a asp-controller="Appointment" asp-action="MakeAppointmentForCar" asp-route-id="@car.Id" class="btn btnAppointment">Programează</a>
+                            <input type="button" value="Șterge" class="btn btn-danger deleteCar" data-car-id="@car.Id">
+                            <a asp-controller="Cars" asp-action="EditCar" asp-route-carId="@car.Id" role="button" class="btn btn-success">Editează</a>
+                        </div>
+                    </div>
+                   
+                </div>
+            </div>
+
+        }
+    </div>
+
+</div>
+
+@section scripts{
+    <script src="~/js/DeleteCar.js"></script>
+
+}
+
+
+

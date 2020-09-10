@@ -1,0 +1,51 @@
+﻿html, body {
+    
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow:hidden;
+}
+
+#map {
+    position: fixed;
+    height: 60%;
+    width: 1200px;
+    top: 2%;
+    left: 2%;
+    bottom: 2%;
+    object-fit: cover;
+}
+
+.contactTitle{
+    font-style: oblique;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-weight: 900;
+   
+}
+
+.colouredTitle {
+    color: #B8931C;
+}
+.streetAddress{
+   float:right;
+    padding-left: 20px;
+    font-style: italic;
+    padding-bottom:0;
+}
+
+.mailAddress {
+    padding-left: 20px;
+  
+}
+
+    .mailAddress p {
+        font-size: 15px;
+        color: #6B3420;
+        margin-bottom: 0px;
+    }
+
+address a {
+    color: #B8931C;
+}
+

@@ -1,0 +1,23 @@
+﻿@model CommentVm
+
+@section style{
+
+}
+
+<h3> Editează comentariul...</h3>
+<form asp-action="EditComment" class="">
+    <div class="form-row">
+        <div class="col-md-6">
+            <label>Comentariul tău</label>
+        </div>
+        <div>
+            <textarea asp-for="Content" id="myTextArea"></textarea>
+            <script>
+                var cursorPos = $('#myTextArea').prop('selectionStart');
+                $('#myTextArea').prop('selectionEnd', cursorPos - 2);
+            </script>
+        </div>
+    </div>
+    <input type="submit" class="btn btn-success" value="Salvează modificarea" />
+
+</form>
